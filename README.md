@@ -1,3 +1,6 @@
+# This repo was setup following scalingo tutorial : https://doc.scalingo.com/platform/getting-started/getting-started-with-elk
+It is used to gather the metrics and logs of immersion facilitée environments
+
 # Logstash boilerplate
 
 This repository contains a boilerplate for deploying logstash on Scalingo.
