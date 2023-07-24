@@ -1,7 +1,7 @@
 {
   "jobs": [
     {
-      "command": "0 * * * * curator --config curator.yml log-clean.yml"
+      "command": "0 5 * * * curator --config curator.yml log-clean.yml"
     }
   ]
 }
